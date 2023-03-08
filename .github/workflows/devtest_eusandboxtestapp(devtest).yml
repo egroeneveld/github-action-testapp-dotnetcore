@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'eusandboxtestapp'
           slot-name: 'DevTest'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B0D003CE247045BCABAF9043FAFE851B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31C58A32A82045DAB780CB56C8935B1B }}
           package: .
